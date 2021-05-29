@@ -1,0 +1,40 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header-inner {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logo img {
+    width: 100px;
+    height: auto;
+}
+.navigation a {
+    text-decoration: none;
+    color: #000;
+    margin-left: 50px;
+}
+.navigation a:hover {
+    color: orange;
+}
+.main {
+    margin-top: 50px;
+}
+.main-inner {
+    display: flex;
+    justify-content: space-between;
+     text-align: justify;
+}
+.main-text {
+    margin-right: 100px;
+}
+.main-img img {
+    width: 500px;
+    height: auto;
+}
+.main-text-konoxa {
+    margin-left: 100px;
+    margin-right: 0px;
+}
